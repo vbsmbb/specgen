@@ -18,11 +18,11 @@
 # Copyright 2012 Mario Rothe mario.rothe@gmail.com
 # It is permited to do whatever you want with this code. So copy, edit, extend and use it as you like.
 #
-# Converted to python 3.8.5 by Mike Shelton starting August 30, 2020. These following changes were made to this module:
+# Converted to python 3.8.5 by Mike Shelton, August 30, 2020. These following changes were made to this module:
 # 
 #   1. Removed all of the trailing semi-colons from the end of statements
-#   2. Fully qualified the UNiqueIdGenerator() function 
-#   3. Removed the obsolete "from igraph import *" with import igraph"
+#   2. Fully qualified the UniqueIdGenerator() function 
+#   3. Removed the obsolete "from igraph import *" with "import igraph"
 #   4. Fully qualified the community_to_membership() function
 #
 

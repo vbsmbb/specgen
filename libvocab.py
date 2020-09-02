@@ -17,7 +17,7 @@
 #
 # modifications: Mike Shelton, August 2020
 #       + Cloned https://github.com/specgen/specgen to local working directory
-#       + Imported specgen6.py, libvocab.py, libgroups.pyinto VS Code
+#       + Imported specgen6.py, libvocab.py, libgroups.py into VS Code
 #       + Renamed specgen6.py to specgen7.py
 #       + Indentation was whacky so changed all tabs to spaces and removed excess spaces in indentation
 #       + Removed extraneous trailing semi-colons from statements

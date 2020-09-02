@@ -7,14 +7,14 @@
 # by Bob Ferris in July 2010 (the main extensions are in libvocab.py). This version is
 # a bit more FOAF independent ;)
 #
-# The specgen6(7) was converted to python 3.8.5 on Windows. This version removed any
+# The specgen7 was converted to python 3.8.5 on Windows. This version removed any
 # unnecessary trailing semi-colons from statement ends. Also, added the f.close() function
 # after the onto file was opened to test it was there. Should change this to a file test 
 # using the os module. In the main function, the comma after getopt.GetoptError was replaced 
 # with " as " before the error. The value "index.rdf" was added for the ontofile parameter 
 # and three None values were added to the makeSpec function call in the makeFoaf function.
 #
-# specgen6(7):
+# specgen7:
 # 
 #   Copyright 2020 Mike Shelton <http://mikes.org>
 #
