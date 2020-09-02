@@ -1,0 +1,1 @@
+specgen7.py --indir=onto\olo\ --ns=http://purl.org/ontology/olo/core#  --prefix=olo --ontofile=orderedlistontology.owl --outdir=spec\olo\ --templatedir=onto\olo\ --outfile=orderedlistontology.html
